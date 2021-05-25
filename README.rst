@@ -4,8 +4,8 @@ Hypark
 WIP: Simple Client-Server Networking Library
 
 Note: This project will be developed mainly for academic purposes. There are
-plenty of open source network client and servers in the Python ecosystem for
-you to choose ;D.
+plenty of open source networking clients and servers in the Python ecosystem for
+you to choose if you neeed any ;D.
 
 
 Introduction
